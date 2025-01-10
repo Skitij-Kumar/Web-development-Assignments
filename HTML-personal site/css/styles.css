@@ -1,0 +1,21 @@
+body {
+  background-color: seashell;
+}
+h1 {
+  color: #75cfb8;
+}
+h3 {
+  color:  #75cfb8;
+}
+
+hr {
+  background-color: none;
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: grey;
+  width: 7%;
+}
+
+img{
+  height: 400px
+}
