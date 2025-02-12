@@ -23,7 +23,3 @@ Just download all the files and open it using a browser.
 
 ## 🤝Contact
 💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 Skitijkumar24@gmail.com
-## 🛠️How to Run the Project
-
-### To see websites 
-Just download all the files and open it using a browser.
